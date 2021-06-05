@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @GreenMintGrandSoul
+- 👀 I’m interested in Programming and Drawing simple things
+- 🌱 I’m currently learning Java and focused on Natural Simulations
+- 💞️ I’m looking to collaborate on anything that my abilities can help
+- 📫 How to reach me: Only by email for now
